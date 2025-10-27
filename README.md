@@ -4,6 +4,7 @@ A fun, interactive basketball shooting game built with HTML and JavaScript using
 ## Features
 
 - Dynamic player and projectile mechanics
+- Randomizer for ball position after each shot
 - Gravity and physics for realistic ball motion
 - Particle effects for scoring shots
 - Timer-based gameplay with standard and bonus rounds
@@ -22,6 +23,7 @@ A fun, interactive basketball shooting game built with HTML and JavaScript using
 ## Controls
 
 - **Click**: Shoot the ball.
+- **Moving Mouse**: Aim where you are shooting based on the position of the ball.
 - **Start Game / Start Bonus**: Begin a round.
 - **Modal**: Displays score at the end of each round.
 
