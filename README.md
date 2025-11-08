@@ -29,3 +29,7 @@ A fun, interactive basketball shooting game built with HTML and JavaScript using
 
 ## Running the Program
 Intended to be run using Live Server. 
+
+
+## Images of the Program
+Inside the images folder.
